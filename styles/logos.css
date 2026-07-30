@@ -1,0 +1,10 @@
+/* ===== LOGOS ===== */
+.logos-content {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 48px;
+  padding: 40px 0;
+  opacity: 0.5;
+  color: white;
+}

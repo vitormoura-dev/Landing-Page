@@ -1,0 +1,49 @@
+
+
+
+.btn{
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.btn-primary{
+    background-color: var(--cor-primaria);
+    color: #06210f;
+}
+
+.btn-primary:hover{
+    background-color: var(--cor-primaria-hover);
+}
+
+.btn-outline{
+    background-color: var(--cor-primaria);
+    border: 2px solid black;
+    color: var(--cor-texto);
+
+}
+
+.btn-link{
+    font-size: 14px;
+    color: var(--cor-texto-secundario);
+
+}
+
+.badge{
+    display: inline-block;
+    font-size: 11px;
+    letter-spacing: 1px;
+    padding: 4px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+
+
+.destaque-verde{
+    color: var(--cor-primaria);
+
+}
+

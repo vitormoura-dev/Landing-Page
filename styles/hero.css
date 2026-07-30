@@ -1,0 +1,56 @@
+
+
+.hero {
+  padding: 60px 0;
+}
+ 
+.hero-content {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+ 
+.hero-text {
+  flex: 1;
+}
+ 
+.hero-rating {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+ 
+.hero-rating span {
+  font-size: 13px;
+  color: var(--cor-texto-secundario);
+}
+ 
+.hero-text h1 {
+  font-size: 44px;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+ 
+.hero-paragrafo {
+  color: var(--cor-texto-secundario);
+  margin-bottom: 28px;
+  max-width: 420px;
+}
+ 
+.hero-cta {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+ 
+.hero-cta-texto {
+  font-size: 12px;
+  color: var(--cor-texto-secundario);
+}
+ 
+.hero-graphic {
+  flex: 1;
+  justify-items: end;
+}
+ 
